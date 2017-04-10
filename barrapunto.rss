@@ -16,7 +16,7 @@
 <description>La informaci&#243;n que te interesa</description>
 <dc:language>EN</dc:language>
 <dc:rights>Copyleft 1999-2006, Barrapunto</dc:rights>
-<dc:date>2017-04-04T18:00:10+00:00</dc:date>
+<dc:date>2017-04-09T21:20:10+00:00</dc:date>
 <dc:publisher>Barrapunto S.L.</dc:publisher>
 <dc:creator>webmaster@barrapunto.com</dc:creator>
 <dc:subject>Tecnolog&#237;a, Software libre</dc:subject>
@@ -25,6 +25,7 @@
 <syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=17/04/05/2241220&amp;from=rss" />
   <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=17/04/02/2228200&amp;from=rss" />
   <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=17/04/02/2227211&amp;from=rss" />
   <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=17/04/01/1427230&amp;from=rss" />
@@ -34,7 +35,6 @@
   <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=17/02/16/104207&amp;from=rss" />
   <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=17/02/14/010228&amp;from=rss" />
   <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=17/02/13/1022230&amp;from=rss" />
-  <rdf:li rdf:resource="http://eventos.barrapunto.com/article.pl?sid=17/02/13/1012259&amp;from=rss" />
  </rdf:Seq>
 </items>
 <image rdf:resource="http://barrapunto.com/images/topics/topicbarrapunto.png" />
@@ -47,6 +47,18 @@
 <link>http://barrapunto.com/</link>
 </image>
 
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=17/04/05/2241220&amp;from=rss">
+<title>Ubuntu abandona Unity para volver a Gnome</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=17/04/05/2241220&amp;from=rss</link>
+<description>DonkeyMCP nos cuenta: &amp;#171;En un giro inesperado de acontecimientos, Canonical ha decidido abandonar Unity junto a su plan de convergencia para volver a Gnome y centrarse en el 'IoT' y en 'la nube', seg&amp;#250;n ha anunciado Mark Shuttlewort.&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2017-04-05T20:58:00+00:00</dc:date>
+<dc:subject>gnome</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>33</slash:comments>
+<slash:hit_parade>33,33,5,3,1,0,0</slash:hit_parade>
+</item>
+
 <item rdf:about="http://barrapunto.com/article.pl?sid=17/04/02/2228200&amp;from=rss">
 <title>Microsoft cierra el portal CodePlex</title>
 <link>http://barrapunto.com/article.pl?sid=17/04/02/2228200&amp;from=rss</link>
@@ -55,8 +67,8 @@
 <dc:date>2017-04-02T22:05:00+00:00</dc:date>
 <dc:subject>microsoft</dc:subject>
 <slash:section>mainpage</slash:section>
-<slash:comments>5</slash:comments>
-<slash:hit_parade>5,4,0,0,0,0,0</slash:hit_parade>
+<slash:comments>7</slash:comments>
+<slash:hit_parade>7,6,0,0,0,0,0</slash:hit_parade>
 </item>
 
 <item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=17/04/02/2227211&amp;from=rss">
@@ -91,8 +103,8 @@
 <dc:date>2017-03-12T10:34:00+00:00</dc:date>
 <dc:subject>administraciones</dc:subject>
 <slash:section>softlibre</slash:section>
-<slash:comments>155</slash:comments>
-<slash:hit_parade>155,149,19,15,0,0,0</slash:hit_parade>
+<slash:comments>166</slash:comments>
+<slash:hit_parade>166,160,19,15,0,0,0</slash:hit_parade>
 </item>
 
 <item rdf:about="http://barrapunto.com/article.pl?sid=17/03/03/0950231&amp;from=rss">
@@ -155,19 +167,6 @@
 <slash:section>mainpage</slash:section>
 <slash:comments>3</slash:comments>
 <slash:hit_parade>3,3,0,0,0,0,0</slash:hit_parade>
-</item>
-
-<item rdf:about="http://eventos.barrapunto.com/article.pl?sid=17/02/13/1012259&amp;from=rss">
-<title>RetroMadrid 2017 ya tiene fecha: 29 y 30 de abril</title>
-<link>http://eventos.barrapunto.com/article.pl?sid=17/02/13/1012259&amp;from=rss</link>
-<description>RetroMadrid nos cuenta: &amp;#171;Tal como recordar&amp;#233;is a trav&amp;#233;s de nuestro anterior comunicado, muy a nuestro pesar no pudimos celebrar la edici&amp;#243;n de 2016. Todo este tiempo ha venido muy bien para coger fuerzas, aclarar ideas, formar equipo y aunar criterios para preparar lo que ser&amp;#225; la pr&amp;#243;xima edici&amp;#243;n: RetroMadrid 2017. Tras un largo recorrido para localizar el espacio m&amp;#225;s adecuado al evento, quer&amp;#237;amos confirmaros que RetroMadrid 2017 tendr&amp;#225; lugar en el Espacio Cultural Dao&amp;#237;z y Velarde (en el distrito del madrile&amp;#241;o barrio del Retiro, y a pocos metros de la parada de Metro Pac&amp;#237;fico), durante el fin de semana de los d&amp;#237;as 29 y 30 de Abril. Este nuevo espacio cultural del Ayuntamiento de Madrid posee suficiente capacidad para una edici&amp;#243;n especialmente dedicada anuestra escena. El aforo ser&amp;#225; limitado, pero confiamos en que podremos adaptarlo todo lo necesario para que RetroMadrid brille de nuevo con luz propia, en una edici&amp;#243;n que retomar&amp;#225; sus ra&amp;#237;ces.&amp;#187;M&amp;#225;s info en RetroMadrid 2017, regresamos con renovada ilusi&amp;#243;n</description>
-<dc:creator>Wayfarer</dc:creator>
-<dc:date>2017-02-13T10:20:00+00:00</dc:date>
-<dc:subject>portada</dc:subject>
-<slash:department>aquellos-chalados-con-sus-locos-cacharros</slash:department>
-<slash:section>eventos</slash:section>
-<slash:comments>3</slash:comments>
-<slash:hit_parade>3,2,1,0,0,0,0</slash:hit_parade>
 </item>
 
 <textinput rdf:about="http://barrapunto.com/search.pl">
