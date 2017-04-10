@@ -70,8 +70,8 @@ rssFile.write(html)
 rssFile.close()
 
 htmlFile = open("barrapunto.html", "w")
-htmlFile.write("<html><head><meta http-equiv='Content-Type' content='text/html;" +
-               "charset=utf-8'/></head><body><br>\n")
+htmlFile.write("<html><head><meta http-equiv='Content-Type'" +
+               "content='text/html; charset=utf-8'/></head><body><br>\n")
 
 xmlFile = open("barrapunto.rss", "r")
 theParser.parse(xmlFile)
